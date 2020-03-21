@@ -1,3 +1,3 @@
 # VAEporwaver
 
-photo in => vapowaved photo out
+photo in => vaporwaved photo out
